@@ -50,19 +50,19 @@ export const Skills = () => {
                 className="skill-slider"
               >
                 <div className="item">
-                  <img src={meter1} alt="image" />
+                  <img src={meter1} alt="image1" />
                   <h5>Web Development</h5>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="image" />
+                  <img src={meter2} alt="image2" />
                   <h5>Brand Identity</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="image" />
+                  <img src={meter3} alt="image3" />
                   <h5>Logo Design</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="image" />
+                  <img src={meter1} alt="image4" />
                   <h5>Web Development</h5>
                 </div>
               </Carousel>
